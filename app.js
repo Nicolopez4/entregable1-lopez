@@ -41,5 +41,4 @@ function displayInventory() {
     alert(inventoryOutput);
 }
 
-// Solicitar al usuario que reduzca el stock al cargar la página
 reduceStock();
